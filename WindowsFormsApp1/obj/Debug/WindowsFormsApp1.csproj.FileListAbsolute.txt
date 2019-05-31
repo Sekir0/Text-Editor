@@ -1,0 +1,21 @@
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Курсы\Курсы IT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyTextEditor.exe.config
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyTextEditor.exe
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyTextEditor.pdb
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyTextEditor.Properties.Resources.resources
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyTextEditor.exe
+C:\Users\Student\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyTextEditor.pdb
